@@ -1,0 +1,24 @@
+批量设置button属性
+
+button间距
+
+按钮大小又变回固定的了
+
+
+return返回到系统里吗
+
+
+
+
+
+honesty.zhaischool.com/simpleCulDemo
+
+
+var label = event.source.label;//当前label
+    	var input = $(this.getElementByXid("input1"));
+    	input.val();
+    	results+= label;
+    	display.innerText=results;
+
+
+传进去？

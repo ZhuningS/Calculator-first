@@ -1,0 +1,3 @@
+button的class属性写btn btn-default culButton
+
+事件button1Click

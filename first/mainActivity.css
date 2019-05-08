@@ -1,0 +1,25 @@
+
+/* 
+ *{
+
+        padding:0;
+
+        margin:1px;
+
+    }
+
+*/
+
+.culButton{
+	cursor: pointer;
+
+        border: solid 1px #FFFFFF;
+
+        text-align: center;
+
+        font-weight: bold;
+
+        font-family: 黑体;
+
+}
+
